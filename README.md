@@ -1,2 +1,2 @@
 # Genetic-Algorithms
-Genetic algorithsusing C++ and java
+Genetic algorithsms using C++ and java
